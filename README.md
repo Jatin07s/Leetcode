@@ -18,9 +18,18 @@ Here I upload every leetcode Q which I solve , you can check my solutions.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Jatin07s/Leetcode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Jatin07s/Leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Jatin07s/Leetcode/tree/master/0078-subsets) |
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Jatin07s/Leetcode/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Jatin07s/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
