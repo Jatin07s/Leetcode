@@ -14,11 +14,13 @@ Here I upload every leetcode Q which I solve , you can check my solutions.
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Jatin07s/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Jatin07s/Leetcode/tree/master/0078-subsets) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jatin07s/Leetcode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Jatin07s/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Jatin07s/Leetcode/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
