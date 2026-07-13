@@ -17,6 +17,7 @@ Here I upload every leetcode Q which I solve , you can check my solutions.
 | [0039-combination-sum](https://github.com/Jatin07s/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jatin07s/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Jatin07s/Leetcode/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/Jatin07s/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -24,6 +25,7 @@ Here I upload every leetcode Q which I solve , you can check my solutions.
 | [0039-combination-sum](https://github.com/Jatin07s/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jatin07s/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Jatin07s/Leetcode/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/Jatin07s/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
