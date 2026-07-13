@@ -21,6 +21,7 @@ Here I upload every leetcode Q which I solve , you can check my solutions.
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Jatin07s/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Jatin07s/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Jatin07s/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jatin07s/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -33,9 +34,14 @@ Here I upload every leetcode Q which I solve , you can check my solutions.
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Jatin07s/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Jatin07s/Leetcode/tree/master/0022-generate-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jatin07s/Leetcode/tree/master/0022-generate-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Jatin07s/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
