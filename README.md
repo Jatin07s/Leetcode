@@ -1,5 +1,23 @@
 # Leetcode
-Here I upload every leetcode Q which I solve , you can check my solutions.
+# LeetCode Solutions
+
+This repository contains my solutions to LeetCode problems solved in Python.
+
+## Topics Covered
+- Arrays
+- Strings
+- Recursion
+- Backtracking
+- Linked List
+- Trees
+- Graphs
+- Dynamic Programming
+- Binary Search
+- Greedy
+
+## Profile
+- Language: Python
+- Platform: LeetCode
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
