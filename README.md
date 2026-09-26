@@ -36,6 +36,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0040-combination-sum-ii](https://github.com/Jatin07s/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Jatin07s/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Jatin07s/Leetcode/tree/master/0078-subsets) |
+| [0198-house-robber](https://github.com/Jatin07s/Leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Jatin07s/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Backtracking
 |  |
@@ -61,6 +62,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jatin07s/Leetcode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/Jatin07s/Leetcode/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Jatin07s/Leetcode/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
 | ------- |
