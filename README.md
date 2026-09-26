@@ -60,6 +60,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jatin07s/Leetcode/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Jatin07s/Leetcode/tree/master/0070-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,4 +87,12 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jatin07s/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Jatin07s/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jatin07s/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Jatin07s/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Jatin07s/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
