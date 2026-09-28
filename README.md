@@ -39,6 +39,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0198-house-robber](https://github.com/Jatin07s/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jatin07s/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Jatin07s/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0322-coin-change](https://github.com/Jatin07s/Leetcode/tree/master/0322-coin-change) |
 ## Backtracking
 |  |
 | ------- |
@@ -65,6 +66,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0070-climbing-stairs](https://github.com/Jatin07s/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Jatin07s/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jatin07s/Leetcode/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Jatin07s/Leetcode/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +87,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jatin07s/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/Jatin07s/Leetcode/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -100,4 +103,12 @@ This repository contains my solutions to LeetCode problems solved in Python.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Jatin07s/Leetcode/tree/master/0070-climbing-stairs) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Jatin07s/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Jatin07s/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
