@@ -83,11 +83,13 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jatin07s/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Jatin07s/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Jatin07s/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Jatin07s/Leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jatin07s/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/Jatin07s/Leetcode/tree/master/0322-coin-change) |
+| [0547-number-of-provinces](https://github.com/Jatin07s/Leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -111,4 +113,12 @@ This repository contains my solutions to LeetCode problems solved in Python.
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Jatin07s/Leetcode/tree/master/0322-coin-change) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Jatin07s/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Jatin07s/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
