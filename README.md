@@ -40,6 +40,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0213-house-robber-ii](https://github.com/Jatin07s/Leetcode/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Jatin07s/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/Jatin07s/Leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Jatin07s/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -67,6 +68,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0198-house-robber](https://github.com/Jatin07s/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jatin07s/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Jatin07s/Leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Jatin07s/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +111,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Jatin07s/Leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Jatin07s/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -121,4 +124,8 @@ This repository contains my solutions to LeetCode problems solved in Python.
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Jatin07s/Leetcode/tree/master/0547-number-of-provinces) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Jatin07s/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
