@@ -102,6 +102,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Jatin07s/Leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Jatin07s/Leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Jatin07s/Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
