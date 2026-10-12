@@ -135,4 +135,5 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0595-big-countries](https://github.com/Jatin07s/Leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Jatin07s/Leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Jatin07s/Leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1148-article-views-i](https://github.com/Jatin07s/Leetcode/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
