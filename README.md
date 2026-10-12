@@ -132,6 +132,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 ## Database
 |  |
 | ------- |
+| [0178-rank-scores](https://github.com/Jatin07s/Leetcode/tree/master/0178-rank-scores) |
 | [0595-big-countries](https://github.com/Jatin07s/Leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Jatin07s/Leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Jatin07s/Leetcode/tree/master/0627-swap-sex-of-employees) |
