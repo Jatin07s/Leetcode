@@ -129,4 +129,8 @@ This repository contains my solutions to LeetCode problems solved in Python.
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Jatin07s/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Jatin07s/Leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
