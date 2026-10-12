@@ -135,6 +135,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0176-second-highest-salary](https://github.com/Jatin07s/Leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Jatin07s/Leetcode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Jatin07s/Leetcode/tree/master/0178-rank-scores) |
+| [0184-department-highest-salary](https://github.com/Jatin07s/Leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Jatin07s/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0595-big-countries](https://github.com/Jatin07s/Leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/Jatin07s/Leetcode/tree/master/0620-not-boring-movies) |
