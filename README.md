@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0322-coin-change](https://github.com/Jatin07s/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Jatin07s/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jatin07s/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jatin07s/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -147,4 +148,12 @@ This repository contains my solutions to LeetCode problems solved in Python.
 |  |
 | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jatin07s/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jatin07s/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jatin07s/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
