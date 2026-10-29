@@ -41,6 +41,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0216-combination-sum-iii](https://github.com/Jatin07s/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/Jatin07s/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Jatin07s/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jatin07s/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Backtracking
 |  |
 | ------- |
@@ -104,6 +105,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0007-reverse-integer](https://github.com/Jatin07s/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Jatin07s/Leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Jatin07s/Leetcode/tree/master/0070-climbing-stairs) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jatin07s/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Memoization
 |  |
 | ------- |
@@ -141,4 +143,8 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0620-not-boring-movies](https://github.com/Jatin07s/Leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-sex-of-employees](https://github.com/Jatin07s/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1148-article-views-i](https://github.com/Jatin07s/Leetcode/tree/master/1148-article-views-i) |
+## Greedy
+|  |
+| ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jatin07s/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->
