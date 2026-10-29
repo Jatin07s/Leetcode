@@ -41,6 +41,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0216-combination-sum-iii](https://github.com/Jatin07s/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/Jatin07s/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Jatin07s/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0994-rotting-oranges](https://github.com/Jatin07s/Leetcode/tree/master/0994-rotting-oranges) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jatin07s/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jatin07s/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Backtracking
@@ -94,6 +95,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Jatin07s/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/Jatin07s/Leetcode/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Jatin07s/Leetcode/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/Jatin07s/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -155,5 +157,6 @@ This repository contains my solutions to LeetCode problems solved in Python.
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/Jatin07s/Leetcode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jatin07s/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
