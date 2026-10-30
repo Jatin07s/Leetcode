@@ -44,6 +44,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0994-rotting-oranges](https://github.com/Jatin07s/Leetcode/tree/master/0994-rotting-oranges) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jatin07s/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jatin07s/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Jatin07s/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 ## Backtracking
 |  |
 | ------- |
@@ -159,4 +160,5 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | ------- |
 | [0994-rotting-oranges](https://github.com/Jatin07s/Leetcode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jatin07s/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/Jatin07s/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
 <!---LeetCode Topics End-->
