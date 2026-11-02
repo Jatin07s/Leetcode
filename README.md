@@ -68,6 +68,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jatin07s/Leetcode/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/Jatin07s/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Jatin07s/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Jatin07s/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jatin07s/Leetcode/tree/master/0213-house-robber-ii) |
@@ -108,6 +109,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | ------- |
 | [0007-reverse-integer](https://github.com/Jatin07s/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Jatin07s/Leetcode/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/Jatin07s/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Jatin07s/Leetcode/tree/master/0070-climbing-stairs) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jatin07s/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Memoization
@@ -161,4 +163,8 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0994-rotting-oranges](https://github.com/Jatin07s/Leetcode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jatin07s/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Jatin07s/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Jatin07s/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
