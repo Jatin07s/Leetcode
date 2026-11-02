@@ -35,6 +35,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0039-combination-sum](https://github.com/Jatin07s/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jatin07s/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Jatin07s/Leetcode/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/Jatin07s/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Jatin07s/Leetcode/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Jatin07s/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jatin07s/Leetcode/tree/master/0213-house-robber-ii) |
@@ -69,6 +70,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jatin07s/Leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Jatin07s/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Jatin07s/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Jatin07s/Leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Jatin07s/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Jatin07s/Leetcode/tree/master/0213-house-robber-ii) |
@@ -160,6 +162,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Jatin07s/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0994-rotting-oranges](https://github.com/Jatin07s/Leetcode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jatin07s/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Jatin07s/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
