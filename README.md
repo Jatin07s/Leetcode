@@ -35,6 +35,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0039-combination-sum](https://github.com/Jatin07s/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Jatin07s/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Jatin07s/Leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/Jatin07s/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Jatin07s/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Jatin07s/Leetcode/tree/master/0078-subsets) |
 | [0198-house-robber](https://github.com/Jatin07s/Leetcode/tree/master/0198-house-robber) |
@@ -69,6 +70,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Jatin07s/Leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Jatin07s/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Jatin07s/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Jatin07s/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Jatin07s/Leetcode/tree/master/0070-climbing-stairs) |
@@ -154,6 +156,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Jatin07s/Leetcode/tree/master/0055-jump-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jatin07s/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 ## Binary Search
 |  |
