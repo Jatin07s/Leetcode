@@ -67,6 +67,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Jatin07s/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Jatin07s/Leetcode/tree/master/0022-generate-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Jatin07s/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +81,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0213-house-robber-ii](https://github.com/Jatin07s/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Jatin07s/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Jatin07s/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [1143-longest-common-subsequence](https://github.com/Jatin07s/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -176,4 +178,8 @@ This repository contains my solutions to LeetCode problems solved in Python.
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Jatin07s/Leetcode/tree/master/0062-unique-paths) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Jatin07s/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
