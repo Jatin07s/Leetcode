@@ -14,7 +14,7 @@ class Solution(object):
                 return 0
             if r == row-1 and c == col-1:
                 return 1
-            if dp[r][c] != -1:
+            if dp[r][c] !=  -1:
                 return dp[r][c]
             right = f(r,c+1)
             down = f(r+1,c)
