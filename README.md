@@ -48,6 +48,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Jatin07s/Leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jatin07s/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Jatin07s/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Jatin07s/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Backtracking
 |  |
 | ------- |
@@ -174,6 +175,7 @@ This repository contains my solutions to LeetCode problems solved in Python.
 | [0994-rotting-oranges](https://github.com/Jatin07s/Leetcode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Jatin07s/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/Jatin07s/Leetcode/tree/master/2373-largest-local-values-in-a-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Jatin07s/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 ## Combinatorics
 |  |
 | ------- |
@@ -182,4 +184,16 @@ This repository contains my solutions to LeetCode problems solved in Python.
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Jatin07s/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Jatin07s/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Jatin07s/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
+## Simulation
+|  |
+| ------- |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Jatin07s/Leetcode/tree/master/2500-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
